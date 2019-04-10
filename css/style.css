@@ -1,0 +1,35 @@
+#body {
+    position: relative;
+    float: left;
+    z-index:7;
+    
+}
+#eyes {
+    position: absolute;
+    z-index: 2;
+
+}
+
+#hat {
+    position: absolute;
+    clear: both;
+    z-index:1;
+}
+#mouth {
+    position: absolute;
+    float: left;
+}
+#mustache {
+    position: relative;
+    z-index:4;
+}
+#nose {
+    position: relative;
+    float: left;
+    clear:right;
+    z-index: 3;
+}
+#shoes {
+    position: relative;
+
+}
